@@ -1,2 +1,6 @@
 # WordPress
-Comitès Anarquistes dels Països Catalans (CAPC)
+
+<http://www.capc.cat>
+
+**Comitès Anarquistes dels Països Catalans (CAPC)**
+
